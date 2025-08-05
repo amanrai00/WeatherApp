@@ -25,7 +25,7 @@ This was created as part of my hands-on learning journey into web development. T
 
 ---
 
-## 🌱 What I’ve Learned
+## What I’ve Learned
 
 This project helped me practice:
 
@@ -38,7 +38,7 @@ This project helped me practice:
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 I plan to expand this project further by adding:
 
