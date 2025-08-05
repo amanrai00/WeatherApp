@@ -60,10 +60,15 @@ WeatherApp/
 ├── js/
 │   └── script.js
 ├── images/
-│   ├── rain.png
 │   ├── clear.png
-│   ├── search.png
+│   ├── clouds.png
+│   ├── default.png
+│   ├── drizzle.png
 │   ├── humidity.png
+│   ├── mist.png
+│   ├── rain.png
+│   ├── search.png
+│   ├── snow.png
 │   └── wind.png
 ```
 
