@@ -1,3 +1,6 @@
+Available in: [🇯🇵 日本語はこちら](README.ja.md)
+
+
 # 🌦️ Weather App
 
 A simple and clean weather-checking application built with **HTML**, **CSS**, and **Vanilla JavaScript**, using the **OpenWeatherMap API**. This project helped me understand how to connect front-end interfaces with real-time external data.
